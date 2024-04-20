@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\src\\l3utterfly\\LaylaDesktop\\cpp\\SDL\\VisualC\\SDL\\SDL.vcxproj": {}
+  },
+  "projects": {
+    "D:\\src\\l3utterfly\\LaylaDesktop\\cpp\\SDL\\VisualC\\SDL\\SDL.vcxproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\src\\l3utterfly\\LaylaDesktop\\cpp\\SDL\\VisualC\\SDL\\SDL.vcxproj",
+        "projectName": "SDL",
+        "projectPath": "D:\\src\\l3utterfly\\LaylaDesktop\\cpp\\SDL\\VisualC\\SDL\\SDL.vcxproj",
+        "packagesPath": "C:\\Users\\gcpth\\.nuget\\packages\\",
+        "outputPath": "D:\\src\\l3utterfly\\LaylaDesktop\\cpp\\SDL\\VisualC\\SDL\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\gcpth\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "native"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "native": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "native": {}
+      }
+    }
+  }
+}
